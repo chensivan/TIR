@@ -1,3 +1,13 @@
-# Paper
+# What is in this repository?
 
-<em>(Feb 13th, 2022)</em> Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems. Zana Bucinca*, Phoebe Lin*, Krzysztof Gajos, Elena L. Glassman. IUI 2020. [Notes](notes/bucinca_iui_2020.md)
+This repo saves my reading notes and thoughts on a list of selected academic papers and work related articles. For each article, I list the title, list of authors, and other relevant information. At the end of each item, you can find a hyperlink that links to my notes.
+
+<!-- I also add visual tags to each paper. Here are what they meant:
+
+🤖: collaboration -->
+
+# Papers and articles
+
+<em>(Feb 13th, 2022)</em> Program synthesis with pragmatic communication. Pu Y, Ellis K, Kryven M, Tenenbaum J, Solar-Lezama A. NeurIPS 2020. [Notes](notes/pu_nips2020/pu_nips2020.md)
+
+<!-- <em>(Feb 13th, 2022)</em> Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems. Zana Bucinca*, Phoebe Lin*, Krzysztof Gajos, Elena L. Glassman. IUI 2020. [Notes](notes/bucinca_iui_2020.md) -->

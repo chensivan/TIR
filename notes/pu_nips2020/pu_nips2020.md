@@ -22,4 +22,4 @@ Adapt to users (interactively? not quite sure). Scale to more complex program sy
 
 ## Where?
 
-![reading by the window of a school building](ut.jpg)
+![reading by the window of a school building](ut.JPG)

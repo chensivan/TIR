@@ -8,6 +8,8 @@ This repo saves my reading notes and thoughts on a list of selected academic pap
 
 # Papers and articles
 
+<em>(2022-2-15)</em> A multi-institutional study of peer instruction in introductory computing. Porter, Leo, Dennis Bouvier, Quintin Cutts, Scott Grissom, Cynthia Lee, Robert McCartney, Daniel Zingaro, and Beth Simon. SIGCSE 2016. [Notes](notes/porter_cse2016/porter_cse2016.md)
+
 <em>(2022-2-14)</em> Guidelines for human-AI interaction. Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S., Bennett, P.N., Inkpen, K. and Teevan, J. CHI 2019. [Notes](notes/amershi_chi2019/amershi_chi2019.md)
 
 <em>(2022-2-13)</em> Program synthesis with pragmatic communication. Pu Y, Ellis K, Kryven M, Tenenbaum J, Solar-Lezama A. NeurIPS 2020. [Notes](notes/pu_nips2020/pu_nips2020.md)

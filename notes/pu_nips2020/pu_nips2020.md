@@ -1,4 +1,4 @@
-## What?
+## Why and what?
 
 In order to more accurately and quickly (fewer shots) synthesize intended programs from users specification, this work recursively models the communication between the synthesizer and users' specifications from a pragmatic communication perspective.
 

@@ -8,6 +8,8 @@ This repo saves my reading notes and thoughts on a list of selected academic pap
 
 # Papers and articles
 
+<em>(2022-2-16)</em> Why distance matters: effects on cooperation, persuasion and deception. Bradner, Erin, and Gloria Mark. CSCW 2002. [Notes](notes/bradner_cscw2002/bradner_cscw2002.md)
+
 <em>(2022-2-15)</em> A multi-institutional study of peer instruction in introductory computing. Porter, Leo, Dennis Bouvier, Quintin Cutts, Scott Grissom, Cynthia Lee, Robert McCartney, Daniel Zingaro, and Beth Simon. SIGCSE 2016. [Notes](notes/porter_cse2016/porter_cse2016.md)
 
 <em>(2022-2-14)</em> Guidelines for human-AI interaction. Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S., Bennett, P.N., Inkpen, K. and Teevan, J. CHI 2019. [Notes](notes/amershi_chi2019/amershi_chi2019.md)

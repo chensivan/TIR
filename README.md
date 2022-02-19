@@ -8,6 +8,8 @@ This repo saves my reading notes and thoughts on a list of selected academic pap
 
 # Papers and articles
 
+<em>(2022-2-18)</em> Bot in the Bunch: Facilitating Group Chat Discussion by Improving Efficiency and Participation with a Chatbot. Soomin Kim, et al. CHI 2020. [Notes](notes/kim_chi2020/kim_chi2020.md)
+
 <em>(2022-2-18)</em> Program synthesis using natural language.Desai, Aditya, Sumit Gulwani, Vineet Hingorani, Nidhi Jain, Amey Karkare, Mark Marron, and Subhajit Roy. ICSE 2016. [Notes](notes/desai_icse2016/desai_icse2016.md)
 
 <em>(2022-2-16)</em> Why distance matters: effects on cooperation, persuasion and deception. Bradner, Erin, and Gloria Mark. CSCW 2002. [Notes](notes/bradner_cscw2002/bradner_cscw2002.md)

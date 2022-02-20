@@ -8,6 +8,8 @@ This repo saves my reading notes and thoughts on a list of selected academic pap
 
 # Papers and articles
 
+<em>(2022-2-19)</em> PL and HCI: Better together. Sarah Chasins, et al. Communications of The ACM, 2021. [Notes](notes/chasins_comm2021/chasins_comm2021.md)
+
 <em>(2022-2-19)</em> Loopholes: a Window into Value Alignment and the Learning of Meaning. Sophie Bridgers, et al. NeurIPS Workshop 2021. [Notes](notes/bridgers_nips2021/bridgers_nips2021.md)
 
 <em>(2022-2-18)</em> Bot in the Bunch: Facilitating Group Chat Discussion by Improving Efficiency and Participation with a Chatbot. Soomin Kim, et al. CHI 2020. [Notes](notes/kim_chi2020/kim_chi2020.md)

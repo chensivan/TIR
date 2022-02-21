@@ -8,6 +8,8 @@ This repo saves my reading notes and thoughts on a list of selected academic pap
 
 # Papers and articles
 
+<em>(2022-2-21)</em> Onboarding Materials as Cross-functional Boundary Objects for Developing AI Assistants. Cai, Carrie J., et al.CHI. [Notes](notes/cai_chi2021/cai_chi2021.md)
+
 <em>(2022-2-20)</em> Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Knowledge Graph Annotation. Yoonjoo Lee, et al. CHI2022 [Notes](notes/lee_chi2022/lee_chi2022.md)
 
 <em>(2022-2-19)</em> PL and HCI: Better together. Sarah Chasins, et al. Communications of The ACM, 2021. [Notes](notes/chasins_comm2021/chasins_comm2021.md)

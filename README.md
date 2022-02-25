@@ -6,11 +6,19 @@ This repo saves my reading notes and thoughts on a list of selected academic pap
 
 🤖: collaboration -->
 
-# Papers and articles
+# Reading list
 
-<em>(2022-2-23)</em> Proxy tasks and subjective measures can be misleading in evaluating explainable AI systems.Buçinca, Zana, et a. IUI, 2020. [Notes](notes/zana_iui2020/zana_iui2020.md)
+NSF CAREER: Inquisitive Programming Environments as Learning Environments for Novices and Experts. Austin Henley. 2021
 
-<em>(2022-2-21)</em> Onboarding Materials as Cross-functional Boundary Objects for Developing AI Assistants. Cai, Carrie J., et al.CHI. [Notes](notes/cai_chi2021/cai_chi2021.md)
+Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models. Wu, T., ACL-IJCNLP 2021.
+
+# Notes of papers and articles I read
+
+<em>(2022-2-23)</em> Are visual explanations useful? a case study in model-in-the-loop prediction. E. Chu, et al. arXiv preprint arXiv:2007.12248 (2020). [Notes](notes/chu_archive2020/chu_archive2020.md)
+
+<em>(2022-2-23)</em> Proxy tasks and subjective measures can be misleading in evaluating explainable AI systems Buçinca, Zana, et a. IUI, 2020. [Notes](notes/zana_iui2020/zana_iui2020.md)
+
+<em>(2022-2-21)</em> Onboarding Materials as Cross-functional Boundary Objects for Developing AI Assistants. Cai, Carrie J., et al. CHI 2021. [Notes](notes/cai_chi2021/cai_chi2021.md)
 
 <em>(2022-2-20)</em> Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Knowledge Graph Annotation. Yoonjoo Lee, et al. CHI2022 [Notes](notes/lee_chi2022/lee_chi2022.md)
 

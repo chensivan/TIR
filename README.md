@@ -14,7 +14,9 @@ Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving 
 
 # Notes of papers and articles I read
 
-<em>(2022-2-23)</em> Are visual explanations useful? a case study in model-in-the-loop prediction. E. Chu, et al. arXiv preprint arXiv:2007.12248 (2020). [Notes](notes/chu_archive2020/chu_archive2020.md)
+<em>(2022-2-26)</em> Sporq: An Interactive Environment for Exploring Code using Query-by-Example. Naik, Aaditya, et al. UIST 2021. [Notes](notes/naik_uist2021/naik_uist2021.md)
+
+<em>(2022-2-25 )</em> Are visual explanations useful? a case study in model-in-the-loop prediction. E. Chu, et al. arXiv preprint arXiv:2007.12248 (2020). [Notes](notes/chu_archive2020/chu_archive2020.md)
 
 <em>(2022-2-23)</em> Proxy tasks and subjective measures can be misleading in evaluating explainable AI systems Buçinca, Zana, et a. IUI, 2020. [Notes](notes/zana_iui2020/zana_iui2020.md)
 

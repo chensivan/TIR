@@ -14,6 +14,13 @@ Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving 
 
 # Notes of papers and articles I read
 
+<em>(2022-2-27)</em> Neural Language Models are Effective Plagiarists. Biderman, Stella, and Edward Raff. arXiv:2201.07406 (2022).
+[Notes](notes/biderman_arxiv2022/biderman_arxiv2022.md)
+
+<em>(2022-2-27)</em> Jigsaw: Large Language Models meet Program Synthesis. GJain, Naman et al. ICSE 2022. [Notes](notes/jain_icse2022/jain_icse2022.md)
+
+<em>(2022-2-26)</em> Genline and genform: Two tools for interacting with generative language models in a code editor. Jiang, Ellen, et al. UIST 2021. [Notes](notes/jiang_uist2021/jiang_uist2021.md)
+
 <em>(2022-2-26)</em> Sporq: An Interactive Environment for Exploring Code using Query-by-Example. Naik, Aaditya, et al. UIST 2021. [Notes](notes/naik_uist2021/naik_uist2021.md)
 
 <em>(2022-2-25 )</em> Are visual explanations useful? a case study in model-in-the-loop prediction. E. Chu, et al. arXiv preprint arXiv:2007.12248 (2020). [Notes](notes/chu_archive2020/chu_archive2020.md)

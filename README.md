@@ -14,6 +14,8 @@ Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving 
 
 # Notes of papers and articles I read
 
+<em>(2022-2-27)</em> Austin, et al. Program synthesis with large language models arXiv:2108.07732 (2021). [Notes](notes/austin_arxiv2021/austin_arxiv2021.md)
+
 <em>(2022-2-27)</em> Neural Language Models are Effective Plagiarists. Biderman, Stella, and Edward Raff. arXiv:2201.07406 (2022).
 [Notes](notes/biderman_arxiv2022/biderman_arxiv2022.md)
 

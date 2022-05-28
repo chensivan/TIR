@@ -1,0 +1,7 @@
+Deep-learning systems are outstanding at interpolating between specific examples they have seen before, but frequently stumble when confronted with novelty.
+
+One of the central arguments is that deep learning is a great tool if all we need are rough-ready results.
+
+One major downside of idea-driven research is that there’s a high risk of getting scooped or duplicating the work of others. Researchers around the world are reading the same literature, which leads them to similar ideas. To make breakthroughs with idea-driven research, you need to develop an exceptionally deep understanding of your subject, and a perspective that diverges from the rest of the community—some can do it, but it’s difficult.
+
+On the other hand, with goal-driven research, your goal will give you a perspective that’s differentiated from the rest of the community. It will lead you to ask questions that no one else is asking, enabling you to make larger leaps of progress. Goal driven research can also be much more motivating. You can wake up every morning and imagine achieving your goal—what the result would look like and how you would feel. That makes it easier to stick to a long-running research program with ups and downs. Goals also make it possible for a team of researchers to work together and attack different aspects of the problem, whereas idea-driven research is most effectively carried out by “teams” of 1-2 people.

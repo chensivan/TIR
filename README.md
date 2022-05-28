@@ -12,9 +12,13 @@ NSF CAREER: Inquisitive Programming Environments as Learning Environments for No
 
 Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models. Wu, T., ACL-IJCNLP 2021.
 
+Moore's Law for Everything by Sam Altman. https://moores.samaltman.com/
+
+https://nautil.us/deep-learning-is-hitting-a-wall-14467/?utm_source=pocket-newtab
+
 # Notes of papers and articles I read
 
-<em>(2022-2-27)</em> Austin, et al. Program synthesis with large language models arXiv:2108.07732 (2021). [Notes](notes/austin_arxiv2021/austin_arxiv2021.md)
+<em>(2022-3-1)</em> Austin, et al. Program synthesis with large language models arXiv:2108.07732 (2021). [Notes](notes/austin_arxiv2021/austin_arxiv2021.md)
 
 <em>(2022-2-27)</em> Neural Language Models are Effective Plagiarists. Biderman, Stella, and Edward Raff. arXiv:2201.07406 (2022).
 [Notes](notes/biderman_arxiv2022/biderman_arxiv2022.md)

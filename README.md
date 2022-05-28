@@ -18,6 +18,9 @@ https://nautil.us/deep-learning-is-hitting-a-wall-14467/?utm_source=pocket-newta
 
 # Notes of papers and articles I read
 
+<em>(2022-5-28)</em> Better Together? An Evaluation of AI-Supported Code
+Translation. Weisz, et al. IUI (2021). [Notes](notes/weisz_iui2022/weisz_iui2022.md)
+
 <em>(2022-3-1)</em> Austin, et al. Program synthesis with large language models arXiv:2108.07732 (2021). [Notes](notes/austin_arxiv2021/austin_arxiv2021.md)
 
 <em>(2022-2-27)</em> Neural Language Models are Effective Plagiarists. Biderman, Stella, and Edward Raff. arXiv:2201.07406 (2022).

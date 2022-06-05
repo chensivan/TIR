@@ -18,8 +18,9 @@ https://nautil.us/deep-learning-is-hitting-a-wall-14467/?utm_source=pocket-newta
 
 # Notes of papers and articles I read
 
-<em>(2022-5-28)</em> Better Together? An Evaluation of AI-Supported Code
-Translation. Weisz, et al. IUI (2021). [Notes](notes/weisz_iui2022/weisz_iui2022.md)
+<em>(2022-6-5)</em> Human-AI interaction: intermittent, continuous, and proactive. Berkel, et al. ACM Interaction (2021) [Notes](notes/berkel_acminteraction2021/berkel_interaction2021.md)
+
+<em>(2022-5-28)</em> Better Together? An Evaluation of AI-Supported Code Translation. Weisz, et al. IUI (2021). [Notes](notes/weisz_iui2022/weisz_iui2022.md)
 
 <em>(2022-3-1)</em> Austin, et al. Program synthesis with large language models arXiv:2108.07732 (2021). [Notes](notes/austin_arxiv2021/austin_arxiv2021.md)
 
